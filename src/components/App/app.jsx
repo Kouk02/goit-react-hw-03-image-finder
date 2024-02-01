@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Section from '../Section/section';
+import Section from '../Section/section.jsx';
 import Searchbar from '../Searchbar/searchbar.jsx';
 import Gallery from '../Gallery/gallery.jsx';
 
