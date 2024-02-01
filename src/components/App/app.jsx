@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Section from '../Section/Section';
-import Searchbar from '../Searchbar/Searchbar';
+import Searchbar from '../Searchbar/Searchbar.jsx';
 import Gallery from '../Gallery/Gallery';
 
 
