@@ -6,7 +6,7 @@ import {
   SearchbarButton,
   SearchbarSpan,
   SearchbarInput,
-} from './Searchbar.styled';
+} from './searchbar.styled.jsx';
 
 export default class Searchbar extends Component {
   state = {

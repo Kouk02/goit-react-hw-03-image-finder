@@ -1,5 +1,5 @@
 import React from 'react';
-import { ButtonLoadMore } from './Button,styled';
+import { ButtonLoadMore } from './button.styled.jsx';
 
 
 function Button({ onClick }) {

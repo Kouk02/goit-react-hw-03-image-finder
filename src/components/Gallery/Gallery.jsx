@@ -2,8 +2,8 @@ import Notiflix from 'notiflix';
 import { InfinitySpin } from 'react-loader-spinner';
 import React, { Component } from 'react';
 import * as PixabayAPI from '../../services/pixabay-api';
-import ImageGallery from 'components/ImageGallery/ImageGallery';
-import Button from 'components/Button/Button';
+import ImageGallery from 'components/ImageGallery/imageGallery';
+import Button from 'components/Button/button.jsx';
 
 const Status = {
   IDLE: 'idle',

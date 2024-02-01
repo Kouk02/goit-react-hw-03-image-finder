@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Section from '../Section/Section';
+import Section from '../Section/section';
 import Searchbar from '../Searchbar/searchbar.jsx';
-import Gallery from '../Gallery/Gallery';
+import Gallery from '../Gallery/gallery.jsx';
 
 
 export default class App extends Component {

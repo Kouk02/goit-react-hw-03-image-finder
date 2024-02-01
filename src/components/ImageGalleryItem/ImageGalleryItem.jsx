@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { GalleryItem, GalleryImage } from './ImageGalleryItem.styled';
-import Modal from 'components/Modal/Modal';
+import { GalleryItem, GalleryImage } from './imageGalleryItem.styled.jsx';
+import Modal from 'components/Modal/modal.jsx';
 
 export default class ImageGalleryItem extends Component {
   state = {
